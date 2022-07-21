@@ -26,3 +26,20 @@
 #column-top td:hover {
   background-color: gold;
 }
+
+.player1{
+  border: solid 10px red;
+  border-radius:  50%;
+  width: 50%;
+  height: 50%;
+  background-color: red;
+  margin: auto;
+}
+.player2{
+  border: solid 10px green;
+  border-radius:  50%;
+  width: 50%;
+  height: 50%;
+  background-color: green;
+  margin: auto;
+}

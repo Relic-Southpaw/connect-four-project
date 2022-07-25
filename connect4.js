@@ -131,3 +131,5 @@ function checkForWin() {
 
 makeBoard();
 makeHtmlBoard();
+
+const lst = 'last string'
